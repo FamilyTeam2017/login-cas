@@ -16,6 +16,11 @@
             <groupId>com.ma</groupId>
             <artifactId>userlogin</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.ma</groupId>
+            <artifactId>userweb</artifactId>
+        </dependency>
+
     </dependencies>
 
 </project>
