@@ -31,11 +31,6 @@
     <dependencyManagement>
     <dependencies>
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-velocity</artifactId>
-            <version>1.4.7.RELEASE</version>
-        </dependency>
-        <dependency>
             <groupId>com.ma</groupId>
             <artifactId>userdeploy</artifactId>
             <version>1.0.1-SNAPSHOT</version>
