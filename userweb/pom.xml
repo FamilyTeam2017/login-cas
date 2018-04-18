@@ -16,6 +16,10 @@
             <artifactId>spring-boot-starter-freemarker</artifactId>
         </dependency>
         <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>dubbo</artifactId>
+        </dependency>
+        <dependency>
             <groupId>com.ma</groupId>
             <artifactId>userlogin</artifactId>
             <version>1.0.1-SNAPSHOT</version>
